@@ -1,0 +1,14 @@
+layout_spectrum: 0.4241628749296069
+typography_spectrum: 0.4253639825619757
+color:
+  brandStrength: 0.24938690406270325
+  lightness: 0.3372695401776582
+  saturation: 0.9568316128570586
+  rhythmicContrast: 0.5145907702390105
+  brandColors:
+    - '#E6E2AF'
+    - '#A7A37E'
+    - '#EFECCA'
+    - '#046380'
+    - '#002F2F'
+name: eatmycake
